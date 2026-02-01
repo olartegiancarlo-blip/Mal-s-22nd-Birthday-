@@ -25,15 +25,15 @@ const CONFIG = {
             text: "Got 3 things in mind this Feb.3. Wanna know them?",                                    // First interaction
             yesBtn: "Yes",                                             // Text for "Yes" button
             noBtn: "No",                                               // Text for "No" button
-            secretAnswer: "I, and then love, and then you. 3 things haha! 😏"           // Secret hover message
+            secretAnswer: "I do! ❤️"           // Secret hover message
         },
         second: {
-            text: "But seriously, someone like you deserves a lot more",                          // For the love meter
-            startText: "And I hope this will be memorable",                                   // Text before the percentage
-            nextBtn: "Next ❤️"                                         // Text for the next button
+            text: "How much do you wanna know?",                          // For the love meter
+            startText: "I hope this will be memorable 😊🤞🏽",                                   // Text before the percentage
+            nextBtn: "Next 👉🏽"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my date on February 3rd, 2026? 🌹", // The big question!
+            text: "Alright then, will you be my date on February 3rd, 2026? 🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -42,16 +42,16 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "YAHOOOO You love me that much?? BIG LIKE ENGI 😻",  // Shows when they go past 5000%
+        high: "Big like CHOOEY 😽",              // Shows when they go past 1000%
+        normal: "Big like poopylita! 😼"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yahoo! I'm the luckiest person in the world! 😝💝💖💝💓",
+        title: "Yahoo! Really I'm the luckiest guy! Come on now! 😝",
         message: "Now come get your gift, a big warm hug and a huge kiss and a pat pat!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        emojis: "🐢🙀😼"  // These will bounce around
     },
 
     // Color scheme for the website
